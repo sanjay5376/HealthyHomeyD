@@ -18,6 +18,6 @@
 <%="Remote Address : "+request.getRemoteAddr() %>
 <%="Date : "+new java.util.Date() %>
 
-
+<marquee>Welcome to healty and homey store</marquee>
 </body>
 </html>
