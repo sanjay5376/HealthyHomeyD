@@ -10,7 +10,8 @@
 
 <h1 align=center><font face=verdana>HOME | <a href="hh/hh2.html">HOME-2</a> | Customer | Vendor | Items | Others</font></h1>
 
-<br><br>
+<br><br><br><br>
+
 
 
 <p><Marquee> <font color=red>Welcome to Healthy and homey Grocery Mart</font></Marquee></p>
