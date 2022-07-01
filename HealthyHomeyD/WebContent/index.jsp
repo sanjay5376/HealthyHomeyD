@@ -8,7 +8,7 @@
 
 <h1  align = center> <font size=20>Healthy &amp; Homey Grocery Mart</font> </h1>
 
-<h1 align=center><font face=verdana>HOME | <a href="hh/hh2.html">HOME-2</a> | Customer | Vendor | Items | Others</font></h1>
+<h1 align=center><font face=verdana>HOME | <a href="hh/hh2.html">HOME-2</a> | Customer | Vendor | Items | <a href="pricecslc.jsp">Others</a></font></h1>
 
 <br><br><br><br>
 
@@ -18,6 +18,15 @@
 
 <%="Remote Address : "+request.getRemoteAddr() %>
 <%="Date : "+new java.util.Date() %>
+
+
+
+<form action="process.jsp">  
+No1:<input type="text" name="n1" /><br/><br/>  
+No1:<input type="text" name="n2" /><br/><br/>  
+<input type="submit" value="divide"/>  
+</form>  
+
 
 </body>
 </html>
